@@ -129,7 +129,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Acknowledgments
 
-- Built for a hackathon to explore health tech and AI.
+- Built for the hackathon Neural Nexus to explore health tech and AI.
 - Inspired by the need for safe home workouts.
 - Thanks to Mediapipe, Streamlit, and gTTS communities for amazing tools.
 
