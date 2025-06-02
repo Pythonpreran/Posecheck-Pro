@@ -1,0 +1,6 @@
+streamlit==1.45.1
+opencv-python==4.9.0.80
+mediapipe==0.10.21
+gTTS==2.5.4
+pydub==0.25.1
+numpy==1.26.4
